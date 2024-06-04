@@ -1,4 +1,10 @@
-**Hi! I'm Sam, <br>a versatile software engineer with a focus on creating tangible impact.**
+<head>
+  <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;700&display=swap" rel="stylesheet">
+</head>
+
+ <h1 style="font-family: 'Inter', sans-serif;">
+    Hi! I'm Sam, <br>a versatile software engineer with a focus on creating tangible impact
+  </h1>
 
 **About me**<br>
 
