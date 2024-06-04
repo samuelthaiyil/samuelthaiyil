@@ -5,3 +5,4 @@ My interest in computer science began when I was introduced to coding at an earl
 
 ***Skills***
 
+![Java](https://github.com/samuelthaiyil/samuelthaiyil/blob/main/Skills/Java.svg)
