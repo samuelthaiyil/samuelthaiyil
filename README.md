@@ -1,4 +1,4 @@
-**Hi! I'm Sam, a versatile software engineer with a focus on creating tangible impact.**
+**Hi! I'm Sam, <br>a versatile software engineer with a focus on creating tangible impact.**
 
 ***About me***<br>
 
