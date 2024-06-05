@@ -17,3 +17,10 @@ My interest in computer science began when I was introduced to coding at an earl
   <img src="https://github.com/samuelthaiyil/samuelthaiyil/blob/main/Skills/Swift.svg" alt="Swift" width="100" height="100" style="display: inline-block; margin-right: 10px;">
   <img src="https://github.com/samuelthaiyil/samuelthaiyil/blob/main/Skills/TypeScript.svg" alt="TypeScript" width="100" height="100" style="display: inline-block;">
 </div>
+
+<h2>Connect</h2>
+<a href="https://www.linkedin.com/in/samuel-thaiyil-444a75198/">
+  <img src="https://github.com/samuelthaiyil/samuelthaiyil/blob/main/Skills/LinkedIn_logo_initials.png" alt="LinkedIn" width="100" height="100" style="display: inline-block;">
+</a>
+
+
