@@ -12,6 +12,7 @@ My interest in computer science began when I was introduced to coding at an earl
   <img src="https://github.com/samuelthaiyil/samuelthaiyil/blob/main/Skills/CPlusPlus.svg" alt="C++" width="100" height="100" style="display: inline-block; margin-right: 10px;">
   <img src="https://github.com/samuelthaiyil/samuelthaiyil/blob/main/Skills/JS.svg" alt="JavaScript" width="100" height="100" style="display: inline-block; margin-right: 10px;">
   <img src="https://github.com/samuelthaiyil/samuelthaiyil/blob/main/Skills/Java.svg" alt="Java" width="100" height="100" style="display: inline-block; margin-right: 10px;">
+     <img src="https://github.com/samuelthaiyil/samuelthaiyil/blob/main/Skills/CSharp.svg" alt="TypeScript" width="100" height="100" style="display: inline-block;">
   <img src="https://github.com/samuelthaiyil/samuelthaiyil/blob/main/Skills/PHP.svg" alt="PHP" width="100" height="100" style="display: inline-block; margin-right: 10px;">
   <img src="https://github.com/samuelthaiyil/samuelthaiyil/blob/main/Skills/Python.svg" alt="Python" width="100" height="100" style="display: inline-block; margin-right: 10px;">
   <img src="https://github.com/samuelthaiyil/samuelthaiyil/blob/main/Skills/Swift.svg" alt="Swift" width="100" height="100" style="display: inline-block; margin-right: 10px;">
