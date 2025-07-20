@@ -4,7 +4,7 @@
 
 <h2>About me</h2>
 <p style="font-family: 'Inter', sans-serif;">
-My interest in computer science began when I was introduced to coding at an early age. What started as a casual hobby quickly grew into a passion. During my time at Lakehead University, I honed my skills in a diverse array of technologies and programming languages, including Java, C++, C#,   JavaScript, TypeScript, PHP, Swift, and Python, as well as frontend frameworks such as Angular and React. I am eager to secure my first role as a software engineer or full stack developer in a fast-growing company, where I can leverage my problem-solving, analytical and collaborative skills. I have a strong interest in the Fintech and AI fields, as well as in startup ventures.
+My interest in computer science began when I was introduced to coding at an early age. What started as a casual hobby quickly grew into a passion that has driven my professional career. During my time at Lakehead University and through my professional experience as a Full Stack Engineer, I've developed expertise in a diverse array of technologies and programming languages, including Java, C++, C#, JavaScript, TypeScript, PHP, Swift, and Python. I have particular strength in frontend frameworks, especially React and TypeScript, having built and maintained high-traffic websites and intelligent AI-powered applications using these technologies.
  </p>
 
 <h2>Skills</h2>
